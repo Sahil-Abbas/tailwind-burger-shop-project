@@ -31,4 +31,6 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-[TailwindCss Burger Shop](/project.png)
+![project](https://github.com/Sahil-Abbas/tailwind-burger-shop-project/assets/60056682/4a0654a3-a70a-4f39-84ed-755c20f88c5f)
+
+
